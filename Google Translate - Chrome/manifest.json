@@ -1,0 +1,19 @@
+{
+  "name": "Google Translate",
+  "description": "Translates the selected word Using Google Translate",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": [
+    "contextMenus"
+  ],
+  "browser_action": {
+    "default_icon": "a.png"
+  },
+  "background": {
+    "scripts": [
+      "bg.js"
+    ]
+  }
+}
+
+
