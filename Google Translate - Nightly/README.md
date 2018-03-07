@@ -1,6 +1,6 @@
 # Google Translate
 
-- This Extension will translate the selected word into Tamil, English or Hindi.
+ This Extension will translate the selected word into Tamil, English or Hindi.
 
 #### How to Use It?
 
